@@ -2,8 +2,18 @@
 
 <h3 align="center">Languages I’m currently exploring and experimenting with:</h3>
 
-<p align="center"><img  alt="HTML5" src="https://img.shields.io/badge/html5-20232a?style=for-the-badge&logo=html5&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="CSS3" src="https://img.shields.io/badge/css3-20232a?style=for-the-badge&logo=css3&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-20232a?style=for-the-badge&logo=javascript&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="React.js" src="https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232a?style=for-the-badge&logo=Bootstrap&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232a?style=for-the-badge&logo=Tailwind&logoColor=20232a&labelColor=58a6ff" height="35"> <img alt="MUI" src="https://img.shields.io/badge/MUI-20232a?style=for-the-badge&logo=MUI&logoColor=20232a&labelColor=58a6ff" height="35"> </p>
-<p align="center">Wanna Know me More?</p>
+<p align="center">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35">
+    <img alt="React.js" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35">
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="35">
+    <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="35">
+     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="35">
+    <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="35">
+
+</p>
+<p align="center">Want to Discover More About Me?</p>
 
 <p align="center">
  
